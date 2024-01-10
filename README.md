@@ -14,7 +14,7 @@ There is also a version of it available on kaggle : https://www.kaggle.com/datas
 
 ## 3. Evaluation
 
-> If we can reach a 95% accuracy at predicting whether or not a patient has a heart disease during the proof of concept, we'll pursue the project
+> If we can reach a 90% accuracy at predicting whether or not a patient has a heart disease during the proof of concept, we'll pursue the project
 
 ## 4. Features
 
